@@ -1,6 +1,6 @@
 Layout Project 24 lesson
 
-Site link
+<a href="https://antikiok.github.io/HTML-CSS-Lesson24/">Site link</a>
 Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
 The tech stack is:
