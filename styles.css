@@ -12,7 +12,6 @@ li {
 html {
   font-family: Work Sans, Verdana, Tahoma, sans-serif;
   font-size: 16px;
-  min-width: 320px;
 }
 
 img {
@@ -252,7 +251,6 @@ span {
 
 @media screen and (min-width: 1400px) {
   .allheader {
-    min-width: 1400px;
     min-height: 710px;
     padding: 40px 25px 77px 130px;
     background-color: #f3c6bd;

@@ -103,7 +103,6 @@
 }
 .allheader {
   @include for-device-large {
-    min-width: 1400px;
     min-height: 710px;
     padding: 40px 25px 77px 130px;
     background-color: $color-header;
