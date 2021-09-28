@@ -181,7 +181,7 @@ span {
 .nav__menu {
   display: flex;
   padding: 20px;
-  justify-content: right;
+  justify-content: flex-end;
   align-items: center;
 }
 @media screen and (min-width: 1400px) {
