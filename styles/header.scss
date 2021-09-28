@@ -23,6 +23,7 @@
 
 .nav {
   display: flex;
+  justify-content: flex-end;
   &__menu {
     display: flex;
     padding: 20px;
