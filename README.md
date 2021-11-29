@@ -1,6 +1,6 @@
 <h1> Layout Project 24 lesson </h1>
 
-<a href="https://antikiok.github.io/HTML-CSS-Lesson24/">Site link</a>
+<a href="https://antikiok.github.io/Layout-foundation-website/">Site link</a>
 
 <p>Layout supports mobile (up-to-400) and desktop (up-to-1360) versions</p>
 
